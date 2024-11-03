@@ -131,8 +131,14 @@ function App() {
                         onChange={(_e, data) => setSearchQuery(data.value)}
                     />}
                 />
-                <Table data={filteredData} columns={columns} showPagination showPageCount />
+                <Table data={filteredData} columns={columns} showPagination showPageCount/>
             </Card>
+            <Flex justify="center" style={{marginTop: "3rem"}}>
+                <Text>
+                    Built with 💖 by Kelvin (</Text>
+                <a href="https://github.com/kelvink96" target="_blank">kelvink96</a>
+                <Text>) </Text>
+            </Flex>
         </FluentProvider>
     )
 }
