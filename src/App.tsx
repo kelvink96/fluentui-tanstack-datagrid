@@ -135,9 +135,8 @@ function App() {
             </Card>
             <Flex justify="center" style={{marginTop: "3rem"}}>
                 <Text>
-                    Built with 💖 by Kelvin (</Text>
+                    Built with 💖 by Kelvin - </Text>
                 <a href="https://github.com/kelvink96" target="_blank">kelvink96</a>
-                <Text>) </Text>
             </Flex>
         </FluentProvider>
     )
