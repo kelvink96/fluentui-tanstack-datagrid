@@ -2,7 +2,7 @@
 
 A powerful and customizable data grid component built with Fluent UI and TanStack Table (React Table v8). This component combines the beautiful design system of Fluent UI with the powerful features of TanStack Table to create a feature-rich data grid solution.
 
-![Fluent TanStack Grid Screenshot](placeholder-for-screenshot.png)
+![Fluent TanStack Grid Screenshot](https://github.com/user-attachments/assets/ffbbf81f-b5f8-4e8c-8e24-69ce397bd777)
 
 ## Features
 
